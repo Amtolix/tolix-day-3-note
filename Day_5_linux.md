@@ -34,6 +34,6 @@ read 4 write 2 excute 1
 special file permission 
 there are 3 special permission 
 >suid 
->sgid
+>sgid 
 >sticky 
 
