@@ -12,9 +12,9 @@ def login():
         print (username)
         password=input('password: ')
         print (password)
-        if username in users and password in users
+        if username in users and password in users:
          print("Welcome to GTST company")
-         return
+         return:
          else:
          att +=1
          print("incorrect login")
